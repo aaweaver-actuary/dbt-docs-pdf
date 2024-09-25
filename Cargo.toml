@@ -1,0 +1,9 @@
+[package]
+name = "dbt-docs-pdf"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+derive_builder = "0.20.1"
+serde = "1.0.210"
+serde_json = "1.0.128"
